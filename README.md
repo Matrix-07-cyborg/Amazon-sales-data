@@ -1,1 +1,7 @@
 # Amazon-sales-data
+
+# Abstract
+This project aims to analyze sales data from an Amazon dataset, focusing on understanding sales trends and the relationship between various financial metrics, including Total Revenue, Total Cost, and Total Profit. By employing the Extract-Transform-Load (ETL) process, we prepared the dataset for analysis and explored monthly and yearly sales trends.
+We conducted various analyses, including descriptive statistics and correlation analysis, to uncover meaningful relationships between attributes such as Units Sold, Unit Price, and Total Revenue. Visualizations were generated to illustrate monthly and yearly sales trends, revealing significant insights into seasonal patterns, cost management, and profit stability.
+The findings indicated that 2012 was a peak year for sales, characterized by the highest revenue and profit levels, followed by a decline that persisted through 2015. Despite the downturn, the company demonstrated resilience by stabilizing profits in subsequent years. Predictive modeling techniques were employed to forecast Total Profit based on historical sales data, providing insights into future performance.
+Overall, this project highlights the importance of effective sales management in navigating competition and optimizing distribution strategies. The insights derived from this analysis can inform strategic decision-making to enhance profitability and address fluctuations in market demand.
